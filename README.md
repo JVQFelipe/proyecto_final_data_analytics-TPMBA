@@ -196,7 +196,6 @@ El notebook utiliza rutas relativas, por lo que debe mantenerse la estructura de
 El informe completo explica la limpieza, la unión, el análisis descriptivo, el análisis estadístico y la creación del dashboard.
 
 - [Informe en PDF](informe/analisis_pokemon_tcg.pdf)
-- [Informe editable en Word](informe/analisis_pokemon_tcg.docx)
 
 ## Limitaciones
 
